@@ -7,7 +7,7 @@ Welcome to our food ordering haven! Explore a diverse menu, compare flavors, and
 ![Home Page of Food Ordering Website](./frontend/public/SS/ss4.png)
 
 2. Contact Us Page
-![Results of Searching Flight](front-end/public/SS/ss5.png)
+![Results of Searching Flight](./front-end/public/SS/ss5.png)
 
 3. Categories of Food Ordering Website
 ![Categories of Food Ordering Website](./frontend/public/SS/ss9.png)
