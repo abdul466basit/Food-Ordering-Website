@@ -1,10 +1,10 @@
 Welcome to our food ordering haven! Explore a diverse menu, compare flavors, and effortlessly order from top restaurants. Let us be your culinary companion, turning your dining desires into a delicious reality.
 
 1. Home Page of Food Ordering Website
-![Home Page of Food Ordering Website](frontend/public/SS/ss1.png)
-![Home Page of Food Ordering Website](frontend/public/SS/ss2.png)
-![Home Page of Food Ordering Website](frontend/public/SS/ss3.png)
-![Home Page of Food Ordering Website](frontend/public/SS/ss4.png)
+![Home Page of Food Ordering Website](./frontend/public/SS/ss1.png)
+![Home Page of Food Ordering Website](./frontend/public/SS/ss2.png)
+![Home Page of Food Ordering Website](./frontend/public/SS/ss3.png)
+![Home Page of Food Ordering Website](./frontend/public/SS/ss4.png)
 
 2. Contact Us Page
 ![Results of Searching Flight](front-end/public/SS/Screenshot(631).png)
