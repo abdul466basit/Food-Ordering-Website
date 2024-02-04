@@ -23,7 +23,7 @@ Welcome to our food ordering haven! Explore a diverse menu, compare flavors, and
 ![View Cart Page of Food Ordering Website](./frontend/public/SS/ss15.png)
 
 6. Checkout Page
-![Checkout of Food Ordering Website](./frontend/Public/SS/ss16.png)
+![Checkout of Food Ordering Website](./frontend/public/SS/ss16.png)
 
 7. Home Page of Seller Dashboard
 ![Home Page of Seller Dashboard](./frontend/public/SS/ss17.png)
